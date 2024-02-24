@@ -1,5 +1,11 @@
 // 800x480 example (tested with SSD1963, 7 inch, parallel data bus)
 
+/*
+ - Hardware reference:
+ [Biggest TFT 7＂ for Arduino or ESP32 - Parallel Communication]
+ https://www.youtube.com/watch?v=ZjPZcyIQFhw
+*/
+
 // Source: https://github.com/rtek1000/TFT_DDIG
 
 /*
