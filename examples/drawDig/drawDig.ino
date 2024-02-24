@@ -1,3 +1,5 @@
+// 800x480 example (tested with SSD1963, parallel data bus)
+
 // Source: https://github.com/rtek1000/TFT_DDIG
 
 /*
