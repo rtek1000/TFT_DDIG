@@ -6,3 +6,5 @@ Reference:
 [Biggest TFT 7＂ for Arduino or ESP32 - Parallel Communication]
 
 https://www.youtube.com/watch?v=ZjPZcyIQFhw
+
+![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963.jpg)
