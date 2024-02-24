@@ -1,5 +1,5 @@
 # TFT_DDIG
-TFT_DDIG was made (Adapted from the [UTFT_DDIG](https://github.com/rtek1000/UTFT_DDIG) library) to improve the display response time of seven-segment numbers, the accepted value is between 0-9 and 10-15 (A-F)
+TFT_DDIG was adapted from the [UTFT_DDIG](https://github.com/rtek1000/UTFT_DDIG) library, to improve the display response time of seven-segment numbers, the accepted value is between 0-9 and 10-15 (A-F)
 
 This library (TFT_DDIG) extends the TFT_eSPI library.
 
