@@ -7,6 +7,8 @@ Reference:
 
 https://www.youtube.com/watch?v=ZjPZcyIQFhw
 
+![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/ESP32%2BLCD-pinout.jpg)
+
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963.jpg)
 
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963_2.jpg)
