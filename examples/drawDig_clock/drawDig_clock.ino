@@ -1,5 +1,16 @@
 // 800x480 digital clock example (tested with SSD1963, parallel data bus)
 
+// Source: https://github.com/rtek1000/TFT_DDIG
+
+/*
+ Make sure all the display driver and pin connections are correct by
+ editing the User_Setup.h file in the TFT_eSPI library folder.
+
+ #########################################################################
+ ###### DON'T FORGET TO UPDATE THE User_Setup.h FILE IN THE LIBRARY ######
+ #########################################################################
+*/
+
 // Date and time functions using just software, based on millis() & timer
 // Need RTClib (by Adafruit) https://github.com/adafruit/RTClib or
 // You can add/install RTClib: Sketch > Include lbrary > Manage library > "Filter your search" > Type: RTClib)
