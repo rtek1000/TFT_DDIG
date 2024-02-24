@@ -2,7 +2,7 @@ File "User_Setup.h" for SSD1963 parallel 7 inch TFT display
 
 - This file is used in the TFT_eSPI library
 
-- Note: the USB port can only supply 500mA, the user must provide additional power to be able to utilize the screen brightness to its fullest. The 3.3V to 200mA linear regulator consumes about 200mA at 5V.
+- Note: the USB port can only supply 500mA, the user must provide additional power to be able to utilize the screen brightness to its fullest. The 3.3V @ 200mA linear regulator consumes about 200mA at 5V.
 
 Reference:
 [Biggest TFT 7＂ for Arduino or ESP32 - Parallel Communication]
