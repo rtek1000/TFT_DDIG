@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=ZjPZcyIQFhw
 
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/ESP32%2BLCD-pinout1.jpg)
 
+![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/TFT_eSPI_files.png)
+
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963.jpg)
 
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963_2.jpg)
