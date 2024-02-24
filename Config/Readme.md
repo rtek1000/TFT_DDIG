@@ -9,9 +9,16 @@ Reference:
 
 https://www.youtube.com/watch?v=ZjPZcyIQFhw
 
+ESP32 DEVKIT V1 and SSD1963 pinout:
+
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/ESP32%2BLCD-pinout1.jpg)
 
+
+/libraries/TFT_eSPI/ files:
+
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/TFT_eSPI_files.png)
+
+SSD1963 7" details:
 
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963.jpg)
 
