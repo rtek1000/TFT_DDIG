@@ -1,5 +1,14 @@
 // Source: https://github.com/rtek1000/TFT_DDIG
 
+/*
+ Make sure all the display driver and pin connections are correct by
+ editing the User_Setup.h file in the TFT_eSPI library folder.
+
+ #########################################################################
+ ###### DON'T FORGET TO UPDATE THE User_Setup.h FILE IN THE LIBRARY ######
+ #########################################################################
+*/
+
 // Include the TFT library https://github.com/Bodmer/TFT_eSPI
 // #include "SPI.h"
 //#include <TFT_eSPI.h>              // Hardware-specific library
