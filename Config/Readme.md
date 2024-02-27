@@ -32,3 +32,5 @@ SSD1963 7" details:
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963_2.jpg)
 
 ![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963_1.jpg)
+
+![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/800x480%20SSD1963%20TFT%20TFT%20LCD%20Display%20Module%207inch.png)
