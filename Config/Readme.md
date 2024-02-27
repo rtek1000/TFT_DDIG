@@ -27,10 +27,4 @@ ESP32 DEVKIT V1 and SSD1963 pinout:
 
 SSD1963 7" details:
 
-![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963.jpg)
-
-![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963_2.jpg)
-
-![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/SSD1963_1.jpg)
-
-![img](https://raw.githubusercontent.com/rtek1000/TFT_DDIG/main/Config/800x480%20SSD1963%20TFT%20TFT%20LCD%20Display%20Module%207inch.png)
+[Display_TFT_800x480_7_inch_SSD1963](https://github.com/rtek1000/Display_TFT_800x480_7_inch_SSD1963) 
