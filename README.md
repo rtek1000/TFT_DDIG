@@ -20,7 +20,7 @@ TFT_eSPI: https://github.com/Bodmer/TFT_eSPI
 
 ----
 
-Tested with 800x600 7 inch display SSD1963 controller, more details: [Display_TFT_800x480_7_inch_SSD1963](https://github.com/rtek1000/Display_TFT_800x480_7_inch_SSD1963) 
+Tested with 800x480 - 7 inch display - SSD1963 controller, more details: [Display_TFT_800x480_7_inch_SSD1963](https://github.com/rtek1000/Display_TFT_800x480_7_inch_SSD1963) 
 ----
 
 Note: As this library only uses the draw line function ("drawL()"), this code can be adapted to operate with other libraries that can draw a line.
